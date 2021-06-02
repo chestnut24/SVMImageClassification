@@ -138,7 +138,7 @@ testpath==0.4.4
 tornado==6.0.4
 traitlets==4.3.3
 typed-ast==1.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 utils==1.0.1
 watchdog==0.10.2
 wcwidth==0.1.9
